@@ -70,7 +70,6 @@ Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendiza
 Estou sempre aberto a oportunidades, networking e novos desafios na área de Tecnologia.
 
 - 💼 [LinkedIn](www.linkedin.com/in/leonardo-ferreira-5451a725a)
-- 🐙 [GitHub](#)
 
 ---
 
